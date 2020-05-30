@@ -1,0 +1,23 @@
+header{
+    background-color: orangered;
+    
+}
+h1{
+    color:#ffff;
+    margin-left:50%;
+}
+.maingrid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.team {
+    display: grid;
+    grid-template-rows: 0.1fr 0.1fr 0.1fr 0.1fr;
+}
+.image img
+{
+    width: 5em;
+    height:5em;
+    margin-top: 20px;
+}
